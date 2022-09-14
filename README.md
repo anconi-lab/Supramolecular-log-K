@@ -2,12 +2,12 @@
 
 
 For the present tutorial, we assume that the supramolecular systems consist of a host (CD) and a guest (G). The tutorial can be used to determine the binding constants (or stability constants) for the reactions:
-G(aq) + CD(aq) ⇌ G@CD(aq) 
+G(aq) + CD(aq) ⇌ G@CD(aq);  
 G@CD(aq): (host-guest system) in aqueous solution
 OR
-G(aq) + CD(aq) ⇌ G…CD (aq) 
+G(aq) + CD(aq) ⇌ G…CD (aq) ; 
 G…CD (aq): (supramolecular system: simple non-bonded association of two molecules)
-To compute the log K for forming a supramolecular system (G…CD) within the multi-equilibrium approach, with the GNF2-xTB method, developed by Grimme and co-workers (J. Chem. Theory Comput. 13, 1989–2009, 2017), you can use the workflow below. 
+To compute the log K for forming a supramolecular system (G…CD) within the multi-equilibrium approach, with the GNF2-xTB method, developed by Grimme and co-workers (J. Chem. Theory Comput. 13, 1989–2009, 2017), you can use the workflow below. The python3 files and other are avaiable with this tutorial (python3-and-other-files)
  
 ![image](https://user-images.githubusercontent.com/86429259/190155383-56c7ebd2-f567-4a3e-8a06-5424a6d9057c.png)
 
