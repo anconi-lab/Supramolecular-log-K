@@ -9,6 +9,8 @@ G(aq) + CD(aq) ⇌ G…CD (aq)
 G…CD (aq): (supramolecular system: simple non-bonded association of two molecules)
 To compute the log K for forming a supramolecular system (G…CD) within the multi-equilibrium approach, with the GNF2-xTB method, developed by Grimme and co-workers (J. Chem. Theory Comput. 13, 1989–2009, 2017), you can use the workflow below. 
  
+![image](https://user-images.githubusercontent.com/86429259/190155383-56c7ebd2-f567-4a3e-8a06-5424a6d9057c.png)
+
 
 Aftwer download the xTB software 
 (https://xtb-docs.readthedocs.io/en/latest/setup.html#getting-the-program) 
@@ -33,6 +35,12 @@ Generate the file "xtb-scan-gibbs-job.txt" (with chmod ugoa+x xtb-scan-gibbs-job
 
 
 
+![imag-check](https://user-images.githubusercontent.com/86429259/190155954-6f2562d4-f0f6-42ee-b7b0-fb4949b4408a.png)
 
+![APARM-CHECKpng](https://user-images.githubusercontent.com/86429259/190155989-68831ee8-443a-4f21-8e29-13834feff98b.png)
+
+![individual-molecules](https://user-images.githubusercontent.com/86429259/190156070-bf128b0e-a89e-4743-94d4-a7d38d68a05c.png)
+
+![logK](https://user-images.githubusercontent.com/86429259/190156080-f6458cda-122c-4ab7-bd93-076bf404cde1.png)
 
 
